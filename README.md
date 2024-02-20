@@ -1,5 +1,5 @@
 ## Descrição:
-O ChatRápidoJS é uma aplicação de bate-papo em tempo real construída inteiramente em JavaScript para oferecer uma experiência de comunicação instantânea e eficiente. Projetado com simplicidade e desempenho em mente, nosso chat proporciona uma plataforma intuitiva para a troca de mensagens entre usuários, possibilitando uma comunicação em tempo real sem obstáculos.
+É uma aplicação de bate-papo em tempo real construída inteiramente em JavaScript para oferecer uma experiência de comunicação instantânea e eficiente. Projetado com simplicidade e desempenho em mente, nosso chat proporciona uma plataforma intuitiva para a troca de mensagens entre usuários, possibilitando uma comunicação em tempo real sem obstáculos.
 
 ## Tecnologias Utilizadas:
 
