@@ -3,8 +3,8 @@ O ChatRápidoJS é uma aplicação de bate-papo em tempo real construída inteir
 
 ## Tecnologias Utilizadas:
 
-# Frontend: HTML5, CSS3, JavaScript.
+Frontend: HTML5, CSS3, JavaScript.
 
-# Backend: Node.js.
+Backend: Node.js.
 
-# WebSocket: Utilização de WebSocket para comunicação bidirecional em tempo real.
+WebSocket: Utilização de WebSocket para comunicação bidirecional em tempo real.
