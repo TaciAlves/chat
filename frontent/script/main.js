@@ -83,7 +83,7 @@ const handleLogin = (e) => {
     login.style.display = "none"
     chat.style.display = "flex"
 
-    ws = new WebSocket("ws://localhost:8080")
+    ws = new WebSocket("wss://chat-backend-c1kg.onrender.com")
     ws.onmessage = processMessage
     // ws.onopen = () => ws.send(`Usuário: ${user.name} entrou no chat`)
 }
